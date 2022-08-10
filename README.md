@@ -1,4 +1,4 @@
-# Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design :iphone:
+# Android-Sliding-Tabs-And-Nav-Drawer + Material-Design :iphone:
 
 Google has been updating many of its apps with its new material design.
 Some of the main visual changes un the update is the newely redesigned of sliding tabs and navigation drawer.
