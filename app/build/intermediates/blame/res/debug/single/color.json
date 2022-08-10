@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\nav_drawer_item_main_text.xml",
+        "source": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\src\\main\\res\\color\\nav_drawer_item_main_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\ismailukman\\.android\\build-cache\\9a811c34bbbb75c44dc80df2a845a71ae5a1306d\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\ismailukman\\.android\\build-cache\\9a811c34bbbb75c44dc80df2a845a71ae5a1306d\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\ismailukman\\.android\\build-cache\\9a811c34bbbb75c44dc80df2a845a71ae5a1306d\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\nav_drawer_row_icon.xml",
+        "source": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\src\\main\\res\\color\\nav_drawer_row_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\ismailukman\\.android\\build-cache\\9a811c34bbbb75c44dc80df2a845a71ae5a1306d\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\ismailukman\\.android\\build-cache\\9a811c34bbbb75c44dc80df2a845a71ae5a1306d\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\ismailukman\\.android\\build-cache\\9a811c34bbbb75c44dc80df2a845a71ae5a1306d\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\selector.xml",
+        "source": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\src\\main\\res\\color\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\ismailukman\\.android\\build-cache\\9a811c34bbbb75c44dc80df2a845a71ae5a1306d\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\ismailukman\\.android\\build-cache\\9a811c34bbbb75c44dc80df2a845a71ae5a1306d\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismailukman\\AndroidStudioProjects\\SampleApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\ismailukman\\.android\\build-cache\\9a811c34bbbb75c44dc80df2a845a71ae5a1306d\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    }
+]

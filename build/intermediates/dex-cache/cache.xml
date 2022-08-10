@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ismailukman\AndroidStudioProjects\SampleApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\ismailukman\AndroidStudioProjects\SampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f710e451d6836fefbb73c0e95965dea6744e1163\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ismailukman\.android\build-cache\3feacef6e3e4cc7e1d58034f10f555a212737594\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="803c4c913beac8f7980d680c725a40835d1d7c77">
+        <dex dex="C:\Users\ismailukman\AndroidStudioProjects\SampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1b3bf471f94034b81474d414e98ec9c155244dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ismailukman\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.15\9093a362d18c5f81f58e49d86dece57d9b6e1cb7\library-1.0.15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="C:\Users\ismailukman\AndroidStudioProjects\SampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.15_6b489c68a162373fa1144961f643853de981c62b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ismailukman\AndroidStudioProjects\SampleApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="929237cdb04117d48476a70d8d1c50bd0c22a3e9">
+        <dex dex="C:\Users\ismailukman\AndroidStudioProjects\SampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_087f3e667471c628ea3059a82aa5a596c68377bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ismailukman\.android\build-cache\f3b7b760dead629eef3faa3bb334b67b81953efb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e903a9f9e5f0b4d11b805500bb3ab4231201b4e8">
+        <dex dex="C:\Users\ismailukman\AndroidStudioProjects\SampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f6a9eeb23454216f188b34604c990a89b744c47\classes.dex" />
+    </item>
+
+</items>
